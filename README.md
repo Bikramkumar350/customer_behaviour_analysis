@@ -53,9 +53,9 @@ Add machine learning model for prediction
 Real-time data integration
 More advanced dashboards
 
-👤 Author
+Author
 Bikram Kumar
 
-📜 License
+License
 
 This project is licensed under the MIT License.
